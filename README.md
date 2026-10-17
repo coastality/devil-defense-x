@@ -15,3 +15,7 @@ rojo serve
 ```
 
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
+
+## Attribution
+ingame icons found right were from [Flaticon](flaticon.com)
+Specific uploaders of Icons: [magnific]([flaticon.com](https://www.flaticon.com/authors/magnific)) , [smashingstocks]([flaticon.com](https://www.flaticon.com/authors/smashingstocks))
