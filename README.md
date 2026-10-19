@@ -6,6 +6,13 @@ in devil defense x, i feature my own unique methods to combat common issues i fo
 https://www.roblox.com/games/88195967000519/Devil-Tower-Defense
 https://youtu.be/5kC2MoRXbQk
 
+## How to test
+to test enemy spawning and pathfinding, press the wave manager button on the bottom right to open the ui. Type in Tomato or Zombie in the enemy name section, and type a number like 5 in the amount section. the area on the right side of the large blue text are textboxes.
+
+clicking on any 3 of the buttons on the right lets you place downa  character. once placed, left click to open their unit preview. and press the yellow upgrade tree button to view the upgrade tree.
+
+for any confusions, the youtube link at the top will show you how to do all of these steps from game join to end.
+
 ## Current Systems
 enemy spawning and custom pathfinding using tween service (lets me use curved paths)
 
