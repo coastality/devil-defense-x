@@ -3,6 +3,9 @@ this is a roblox tower defense game, similar to popular titles like 'bloons td6'
 
 in devil defense x, i feature my own unique methods to combat common issues i found in other tower defense titles and added my own twist with the popular anime series Chainsaw Man
 
+https://www.roblox.com/games/88195967000519/Devil-Tower-Defense
+https://youtu.be/5kC2MoRXbQk
+
 ## Current Systems
 enemy spawning and custom pathfinding using tween service (lets me use curved paths)
 
