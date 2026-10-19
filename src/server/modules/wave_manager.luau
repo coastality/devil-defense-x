@@ -33,12 +33,7 @@ function wave_manager.dispatch(enemy_key, count)
             clone.PrimaryPart = hrp
 
             clone:PivotTo(waypoints[1].CFrame + Vector3.new(0, 0.5, 0))
-            clone.Parent = workspace
-
-            print("spawned at:", hrp.Position, "waypoint:", waypoints[1].Position)
-
-            local result = workspace:Raycast(hrp.Position, Vector3.new(0, -50, 0))
-            print("ground below:", result and result.Instance:GetFullName() or "NOTHING")
+            clone.Parent = workspace:WaitForChild("Enemies")
 
             movement.traverse(clone)
             task.wait(1)
